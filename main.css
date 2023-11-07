@@ -60,6 +60,12 @@ h2 {
     padding-top: .5em;
 }
 
+h3 {
+    font-family: "roboto", sans-serif;
+    color: #44D62C;
+    padding-top: .5em; 
+}
+
 .quote {
     font-family: "roboto", sans-serif;
     color: gray;
@@ -69,4 +75,23 @@ h2 {
 .pdctimg {
     border: 2px solid #44D62C;
     border-radius: 15px;
+    float: right;
+}
+
+.productintro {
+    width: 97%;
+    border-bottom: 1px solid #44D62C;
+    color: gray;
+    float: left;
+    padding: .5em;
+    font-family: "roboto", sans-serif;
+    padding-left: 1.5em;
+}
+
+.float {
+    float: left;
+}
+
+.spacing {
+    padding: .35em;
 }
