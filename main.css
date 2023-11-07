@@ -1,0 +1,41 @@
+ * {
+    margin: 0;
+    padding: 0;
+} 
+
+#nav_menu ul {
+    list-style-type: none;
+    padding: 1em 0;
+    text-align: center;
+    
+}
+
+#nav_menu ul li {
+    display: inline !important;
+    padding: 0 1.5em;
+}
+
+#nav_menu ul li a {
+    font-weight: bold;
+    color: #555555;
+    text-decoration: none;
+}
+
+#nav_menu ul li a.current {
+    text-decoration: none;
+}
+
+a:hover {
+    font-style: italic;
+    color: green;
+}
+
+.headerimg {
+    float: left;
+    margin-left: 1.5em;
+}
+
+header {
+    background-color: #000000;
+    border-bottom: 2px solid #44D62C;
+}
