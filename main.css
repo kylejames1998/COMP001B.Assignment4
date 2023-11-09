@@ -105,6 +105,7 @@ h3 {
     border: 2px solid #44D62C;
     border-radius: 20px;
     margin-top: 15px;
+    width: 30%;
 }
 .img2 {
     float: left;
@@ -114,6 +115,7 @@ h3 {
     border: 2px solid #44D62C;
     border-radius: 20px;
     margin-top: 15px;
+    width: 30%;
 }
 .img3 {
     float: left;
@@ -123,6 +125,7 @@ h3 {
     border: 2px solid #44D62C;
     border-radius: 20px;
     margin-top: 15px;
+    width: 30%;
 }
 
 .clr {
