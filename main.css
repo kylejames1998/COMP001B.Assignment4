@@ -36,10 +36,6 @@ a:hover {
     color: green;
 }
 
-.headerimg {
-    float: left;
-    margin-left: 1.5em;
-}
 
 /********* TYPE SELECTOR STYLES ************/
 header {
@@ -89,6 +85,11 @@ i {
     font-family: "roboto", sans-serif;
     color: gray;
     padding-top: .5em;
+}
+/* Styles the logo in the header */
+.headerimg {
+    float: left;
+    margin-left: 1.5em;
 }
 
 /* Styles the product image */
@@ -205,7 +206,7 @@ form {
     border-top: 1px solid #44D62C;
   }
   
-  .container {
+  .newsletter {
     padding: 20px;
     background-color: black;
   }
